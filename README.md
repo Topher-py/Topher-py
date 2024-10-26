@@ -4,7 +4,7 @@
 
 🌱 I’m currently diving into Python, exploring GIs programming using python and javascipt.
 
-🔎 I’m looking to collaborate on projects with tech companies and other developers, especially those focused on impactful and innovative technology.
+🔎 I’m looking to collaborate on projects with tech companies and other developers.
 
 📫 How to reach me: Feel free to connect on LinkedIn or email me at [christophermutua2454@gmail.com].
 
